@@ -1,5 +1,7 @@
 # Navigasi Otomatis Flappy Bird Berbasis Piksel Menggunakan Deep Q-Network (DQN)
 
+![Flappy Bird AI Demo](assets/FlappyBird30.gif)
+
 Proyek ini merupakan implementasi **Deep Reinforcement Learning (DRL)** untuk melatih agen agar dapat menavigasi rintangan pada simulasi game Flappy Bird secara mandiri. 
 
 Pendekatan utama dalam proyek ini difokuskan pada ekstraksi fitur visual; agen tidak diberikan input numerik yang disederhanakan (seperti jarak koordinat burung ke pipa), melainkan harus mengobservasi lingkungan murni dari matriks piksel mentah di layar menggunakan **Convolutional Neural Network (CNN)** yang dipadukan dengan algoritma **Q-Learning**.
