@@ -1,0 +1,9 @@
+# Mengabaikan folder environment dan cache Python
+__pycache__/
+.ipynb_checkpoints/
+
+# MENGABAIKAN FOLDER 1.86 GB INI:
+trained_models/
+
+# Mengabaikan semua file model .pt di mana pun posisinya
+*.pt
