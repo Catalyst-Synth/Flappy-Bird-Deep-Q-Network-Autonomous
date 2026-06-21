@@ -27,6 +27,11 @@ Flappy-Bird-AI/
 ├── Dependencies.md             # Catatan lingkungan instalasi
 └── README.md                   
 
+Nama  = Evandes Nathanael G
+NIM   = 221344007
+Kelas = 4A-TNK
+TEKNIK TELEKOMUNIKASI NIRKABEL | POLITEKNIK NEGERI BANDUNG
+
 ⚙️ Kebutuhan Sistem (Dependencies)
 Proyek ini berjalan optimal dengan akselerasi GPU (CUDA). Berikut adalah pustaka utama yang dibutuhkan:
 
