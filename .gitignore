@@ -6,4 +6,3 @@ __pycache__/
 
 
 # Mengabaikan semua file model .pt di mana pun posisinya
-*.pt
